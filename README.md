@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mohan! <br/> <a href="https://www.linkedin.com/in/mohanrajchinnapaiyan/">Technical Program Manager</a>, <a href="mohanrajchinnapaiyan/mohan.github.io">Programmer</a>, <a href="https://www.youtube.com/c/cmohanmails">YouTuber</a></h1>
+<h1>Hi, I'm Mohan!<br/> <a href="https://www.linkedin.com/in/mohanrajchinnapaiyan/">Technical Program Manager</a>, <a href="mohanrajchinnapaiyan/mohan.github.io">Programmer</a>, <a href="https://www.youtube.com/c/cmohanmails">YouTuber</a></h1>
 
 <h2>👨‍💻 AI/ML Projects:</h2>
 
