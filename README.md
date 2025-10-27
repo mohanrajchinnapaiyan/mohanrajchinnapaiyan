@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 AI/ML Projects:</h2>
 
-- <b>Generative AI Projects</b>
+- <b>Generative AI/ Agentic AI Projects</b>
   - [Automated Data Insights](https://github.com/mohanrajchinnapaiyan/AUtomated_Data_Insights)
-  - [Automated Data Insights](https://github.com/mohanrajchinnapaiyan/AUtomated_Data_Insights)
+  - [AI Risks & Security (NIST CSF) project](https://mohanrajchinnapaiyan.github.io/ai-risks-security-proactive-defense)
  
 - <b>Machine Learning Projects</b>
   - [Automated Data Insights](https://github.com/mohanrajchinnapaiyan/AUtomated_Data_Insights)
